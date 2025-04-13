@@ -4,7 +4,7 @@
 **VaaniXUserbot** is a powerful Telegram spam userbot built using the Telethon library. This bot supports multi-account spamming, reply raids, and many custom commands. You can control it from your main Telegram account and manage up to 10 userbot sessions.
 
 <p align="center">
-  <img src="https://telegra.ph/file/fc22cb568f8e82f574109.jpg" alt="VaaniXUserbot SPAM BOT">
+  <img src="https://telegra.ph/file/vaanixuserbot_algerian.png" alt="VaaniXUserbot SPAM BOT">
 </p>
 
 ---
